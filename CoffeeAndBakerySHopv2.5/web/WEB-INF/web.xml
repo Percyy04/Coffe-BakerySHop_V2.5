@@ -6,7 +6,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>GetItemServlet</servlet-name>
-        <url-pattern>/GetItemServlet</url-pattern>
+        <url-pattern>/Home.jsp</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
